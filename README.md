@@ -9,5 +9,7 @@ Imágenes de ejemplo del archivo javadoc generado para el Restaurante
 ![image](https://github.com/user-attachments/assets/cb5f3da0-3c66-4cb8-9311-d906eb16d2e7)
 
 Imágenes de ejemplo del archivo javadoc generado para Vuelos
+![image](https://github.com/user-attachments/assets/80fd5804-2a12-4836-b042-8bdd07688678)
+![image](https://github.com/user-attachments/assets/9edc46f3-c8ec-40aa-9735-e5a44b4e9bc1)
 
 
